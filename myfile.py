@@ -1,1 +1,1 @@
-print "run my file"
+print "test file"
